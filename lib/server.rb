@@ -5,7 +5,7 @@ SENTENCE =   [["Stochastic",
                 "Random",
                 "Predicting",
                 "High performance",
-                "Quantitative"
+                "Quantitative",
                 "Mining"],
                 
               ["data from",
@@ -29,7 +29,7 @@ SENTENCE =   [["Stochastic",
               ["in MRI scans",
                "recorded from the Hubble telescope",
                "produced by the Large Hadron Collider",
-               "detected in sub-aquatic samples"
+               "detected in sub-aquatic samples",
                "suggesting the heat death of the Universe"
                ]]
 
