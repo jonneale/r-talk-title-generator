@@ -17,7 +17,7 @@ SENTENCE =   [["Stochastic",
                 "reverse polarization"],
 
               ["in MRI scans",
-               "recorded from the hubble telescope",
+               "recorded from the Hubble telescope",
                "produced by the Large Hadron Collider"]]
 
 get '/' do
