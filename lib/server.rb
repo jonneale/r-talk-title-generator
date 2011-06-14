@@ -36,7 +36,7 @@ SENTENCE =   [["Stochastic",
 get '/' do
   sentence = ""
   SENTENCE.each do |element|
-    sentence = "#{sentence} #{element[rand(element.size)]}"
+    sentence = "<h1>#{sentence} #{element[rand(element.size)]}</h1>"
   end
   sentence
 end
