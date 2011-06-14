@@ -2,11 +2,13 @@ require 'sinatra'
 
 SENTENCE =   [["Stochastic",
                "Visualising",
-                "Random"],
+                "Random",
+                "Predicting"],
                 
               ["data from",
                 "gausian",
-                "lambda"],
+                "lambda",
+                "poisson"],
                 
               ["distributions of",
                "genotypes originating from",
@@ -14,11 +16,13 @@ SENTENCE =   [["Stochastic",
 
               ["radiation",
                 "de-ionization",
-                "reverse polarization"],
+                "reverse polarization",
+                "anomalies"],
 
               ["in MRI scans",
                "recorded from the Hubble telescope",
-               "produced by the Large Hadron Collider"]]
+               "produced by the Large Hadron Collider",
+               "detected in sub-aquatic samples"]]
 
 get '/' do
   sentence = ""
